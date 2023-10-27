@@ -1,0 +1,105 @@
+/* Your styles here */
+
+.headerdiv {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+.backgrounddiv {
+    background-image: url("/Users/stefanociri/Desktop/S1-L5/Esercizio/images/banner.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+}
+
+.maindiv {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    display: inline;
+}
+
+.highlightdiv {
+    background-color: #e22d0e;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.linkdiv {
+    border: solid #dee1e3 1px;
+    border-radius: 5px;
+    margin: 20px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 40px;
+    padding-left: 0px;
+    text-align: center;
+    width: 33%;
+}
+
+.footerdiv {
+    background-color: #25a2c3;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+  }
+
+.blueh1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #25a2c3;
+  }
+
+.h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+  }
+
+.button {
+    background-color: #f04c2f;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    width: 30%;
+    padding: 20px;
+    margin: auto;
+}
+
+.halfhr {
+    width:50%;
+    text-align: center
+}
+
+.roundimg {
+    border-radius: 50%;
+    display: inline;      
+}
+
+.fill {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+}
